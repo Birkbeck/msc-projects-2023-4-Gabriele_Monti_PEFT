@@ -1,5 +1,5 @@
 ---
-title: C64container
+title: Docker resume container
 emoji: 🏢
 colorFrom: green
 colorTo: indigo
